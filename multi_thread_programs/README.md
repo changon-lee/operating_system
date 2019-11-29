@@ -1,8 +1,8 @@
 
  ## Multi-Thread Program
- * COMP312001 Operating System, Spring 2019
+ * COMP312 Operating System, Spring 2019
  * School of Electronics Engineering, Kyungpook National University
- * Instructor: Sunju Kang
+ 
 -------------------------------------------------------------------------------------- 
 
  #### Compile result : main

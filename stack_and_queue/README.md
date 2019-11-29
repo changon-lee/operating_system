@@ -22,7 +22,9 @@ Make input as a string and use strtok to cut the string.
  * 5 : Terminate the program.
 
 *Can't enter items more than 30 letters.*
+
 *if you want to enter more than 30 letters,*
+
 *change #define BUFFER_SIZE in Stack_Queue_Main.c*
 
 
